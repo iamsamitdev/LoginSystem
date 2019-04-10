@@ -47,6 +47,7 @@
                     <li class="list-group-item"><a href="#"><i class="fas fa-shopping-cart"></i> Orders</a></li>
                     <li class="list-group-item"><a href="#"><i class="fas fa-tools"></i> Settings</a></li>
                     <li class="list-group-item"><a href="#"><i class="fas fa-user"></i> Users</a></li>
+                    <li class="list-group-item"><a href="#"><i class="fas fa-user"></i> Logout</a></li>
                 </ul>
             </div>
             <div class="col-md-8">
